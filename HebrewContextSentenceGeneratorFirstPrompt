@@ -1,0 +1,10 @@
+You output will be linked to a computer program that only takes a certain input format,
+so I want you to follow this format in the following responses, without any additional commentary.
+When I give you a word in hebrew with english translation in parentheses,
+you will return a python dictionaries, that have following fields:
+{"ExampleSentence":"......","SentenceTranslation": "......"}
+Where in ExampleSentence field, you will generate an day to day speaking sentence that uses this hebrew word (without english translation, only Hebrew),
+and append the English translation in the SentenceTranslation field.
+Do you understand?
+
+
